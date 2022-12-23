@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://i.ibb.co/DkYftSc/20221030-154612.jpg" alt="nz" width="2050"/>
+<img src="https://i.ibb.co/f1TM16N/20221223-105727.jpg" alt="nz" width="2050"/>
 </p>
 
 <h1 align="center"> ʜᴇʟʟʀʏᴢᴇɴ
