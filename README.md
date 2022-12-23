@@ -5,11 +5,11 @@
 <img src="https://i.ibb.co/f1TM16N/20221223-105727.jpg" alt="nz" width="2050"/>
 </p>
 
-<h1 align="center"> ʜᴇʟʟʀʏᴢᴇɴ
+<h1 align="center"> ʀᴇᴅᴢᴇᴏꭗ
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ɪ+ᴋɪʟʟᴇᴅ+ᴍʏ+ᴏᴡɴ+ʜᴀᴘᴘɪɴᴇꜱꜱ+...+✨⚡🥰.;ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ+💔)](https://git.io/typing-svg)
 
-![My Profile Views](https://gpvc.arturio.dev/HELLRYZEN)
+![My Profile Views](https://gpvc.arturio.dev/REDZEOX)
 <br>
 <br>
 </p>
@@ -39,9 +39,9 @@
 
 <h1 align="center"> ꜱᴛᴀᴛꜱ
 
-![HELLRYZEN GitHub stats](https://github-readme-stats.vercel.app/api?username=HELLRYZEN&show_icons=true&theme=radical)
-<p align="center"><a href="https://github.com/HELLRYZEN/Chizuru-MD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELLRYZEN&theme=radical&layout=compact"></a></p>
+![REDZEOX GitHub stats](https://github-readme-stats.vercel.app/api?username=REDZEOX&show_icons=true&theme=radical)
+<p align="center"><a href="https://github.com/REDZEOX/Chizuru-MD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDZEOX&theme=radical&layout=compact"></a></p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HELLRYZEN&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REDZEOX&theme=monokai)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
