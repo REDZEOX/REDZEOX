@@ -43,3 +43,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REDZEOX&theme=monokai)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## ✧ 
+<a href="https://github.com/REDZEOX/Rias-gremory">
+    <img src="https://i.ibb.co/FXn2L2f/20230127-141048.jpg" width="2560">
+     
