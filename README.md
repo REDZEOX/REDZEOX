@@ -14,12 +14,6 @@
 <br>
 </p>
 ᴊᴜʟʏ 5тн 😍😜
-ᴡᴀтᴄн ʙᴜт ɴᴏт ꜱᴇᴇ..💭
-нᴇᴀʀ ʙᴜт ɴᴏт ʙᴇʟᵻᴇνᴇ..♥
-тᴏ ʟᴇᴀνᴇ ᴀɴᴅ ɴᴏт тᴏ ʀᴇтᴜʀɴ..💌
-ɪ ᴋɪʟʟᴇᴅ ᴍʏ ᴏᴡɴ ʜᴀᴘᴘɪɴᴇꜱꜱ...✨⚡🥰
-ᴊᴜꜱᴛ ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ
-ᴊᴜꜱᴛ...!!! 
 ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ 💔
 ғʀᴏᴍ ɪɴᴅɪᴀ ' ᴍᴜᴍʙᴀɪ
 ᴀɢᴇ 18 +
@@ -43,7 +37,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REDZEOX&theme=monokai)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## ✧ 
+## ✧ 〘 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ-ᴍᴅ 〙
 <a href="https://github.com/REDZEOX/Rias-gremory">
     <img src="https://i.ibb.co/FXn2L2f/20230127-141048.jpg" width="2560">
      
