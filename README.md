@@ -38,4 +38,4 @@
 
  ## ✧ 〘 ᴀᴛʟᴀꜱ-ᴍᴅ 〙
 <a href="https://github.com/REDZEOX/Atlas-MD">
-  <img src="https://i.ibb.co/FXn2L2f/20230127-141048.jpg" width="2560">  
+  <img src="https://i.ibb.co/4FGqv4T/20230213-163512.jpg" width="2560">  
