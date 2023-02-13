@@ -24,7 +24,6 @@
 <p align="center">
 ◈ ━━━━━━━━━━━━━━━━━━━━━━━━ ◈
 
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## ✧ 〘 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ-ᴍᴅ 〙
 <a href="https://github.com/REDZEOX/Rias-gremory">
