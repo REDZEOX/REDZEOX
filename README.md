@@ -24,12 +24,6 @@
 <p align="center">
 ◈ ━━━━━━━━━━━━━━━━━━━━━━━━ ◈
 
-<h1 align="center"> ꜱᴛᴀᴛꜱ
-
-![REDZEOX GitHub stats](https://github-readme-stats.vercel.app/api?username=REDZEOX&show_icons=true&theme=radical)
-<p align="center"><a href="https://github.com/REDZEOX/Chizuru-MD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REDZEOX&theme=radical&layout=compact"></a></p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REDZEOX&theme=monokai)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## ✧ 〘 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ-ᴍᴅ 〙
@@ -38,4 +32,5 @@
 
  ## ✧ 〘 ᴀᴛʟᴀꜱ-ᴍᴅ 〙
 <a href="https://github.com/REDZEOX/Atlas-MD">
-  <img src="https://i.ibb.co/4FGqv4T/20230213-163512.jpg" width="2560">  
+  <img src="https://i.ibb.co/4FGqv4T/20230213-163512.jpg" width="2560">
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
