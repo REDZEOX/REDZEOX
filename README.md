@@ -10,9 +10,7 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ɪ+ᴋɪʟʟᴇᴅ+ᴍʏ+ᴏᴡɴ+ʜᴀᴘᴘɪɴᴇꜱꜱ+...+✨⚡🥰.;ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ+💔)](https://git.io/typing-svg)
 
-![My Profile Views](https://gpvc.arturio.dev/REDZEOX)
-<br>
-<br>
+
 </p>
  ɪ ʟᴏᴠᴇ ᴛᴀʟᴋ ᴛᴏ ʙᴇ ᴀ ɢᴏᴏᴅ ᴀɴᴅ ʙᴇꜱᴛ ғʀɴᴅꜱ ᴡᴇ ᴡɪʟʟ ᴍᴇᴇᴛ ᴛʜᴀɴᴋ ғᴏʀ ᴛʜᴀᴛ..... 
 ʙᴇ ᴀ ɢᴏᴏᴅ ᴏɴᴇ 😌⚡🔥
@@ -44,3 +42,5 @@ src="https://media.tenor.com/ZFV-CLciq20AAAAi/anime-chibi.gif" width="90px"></h3
 </div>
 
 <img src="Rainbow.gif" width="100%">
+
+
