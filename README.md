@@ -33,11 +33,12 @@ src="https://media.tenor.com/ZFV-CLciq20AAAAi/anime-chibi.gif" width="90px"></h3
 ## ✧ 〘 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ-ᴍᴅ 〙
 <a href="https://github.com/REDZEOX/Rias-gremory">
     <img src="https://i.ibb.co/FXn2L2f/20230127-141048.jpg" width="2560">
-</div>
+
  ## ✧ 〘 ᴀᴛʟᴀꜱ-ᴍᴅ 〙
 <a href="https://github.com/REDZEOX/Atlas-MD">
   <img src="https://i.ibb.co/4FGqv4T/20230213-163512.jpg" width="2560">
-</div>
+
+ </div>
 
 <img src="Gradients.png" alt="Gradients" width="100%">
 </div>
