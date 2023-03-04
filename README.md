@@ -2,8 +2,8 @@
 
 <p align="center">
 
-/*<img src="https://i.ibb.co/f1TM16N/20221223-105727.jpg" alt="nz" width="2050"/>
-</p>/*
+<img src="RedzeoX.png" alt="nz" width="2050"/>
+</div>
 
 <h1 align="center"> ʀᴇᴅᴢᴇᴏꭗ
 
