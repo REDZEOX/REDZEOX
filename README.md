@@ -36,7 +36,7 @@
  ## ✧ 〘 ᴀᴛʟᴀꜱ-ᴍᴅ 〙
 <a href="https://github.com/REDZEOX/Atlas-MD">
   <img src="https://i.ibb.co/4FGqv4T/20230213-163512.jpg" width="2560">
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+</div>
 
 <img src="Gradients.png" alt="Gradients" width="100%">
 </div>
