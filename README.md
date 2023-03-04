@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center"> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ɪ'ᴍ ʀᴇᴅᴢᴇᴏꭗ <img
-src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="25px"></h3>
+src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="50px"></h3>
 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ɪ+ᴋɪʟʟᴇᴅ+ᴍʏ+ᴏᴡɴ+ʜᴀᴘᴘɪɴᴇꜱꜱ+...+✨⚡🥰.;ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ+💔)](https://git.io/typing-svg)
