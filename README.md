@@ -29,8 +29,8 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
  </div>
 
 <img src="Gradients.png" alt="Gradients" width="100%">
-<br>
-  <img src="Rainbow.gif" width="100%">
+
+<img src="Rainbow.gif" width="100%">
 
 
 <!--
