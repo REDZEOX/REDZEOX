@@ -17,7 +17,7 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
   <a href="https://open.spotify.com/track/bfdadf6c-de9e-468b-bbfa-ffeb7c395aec?si=Btfle_keSyysCVtV-bZvFQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
  </div>
  
-<hr>
+<img src="Rainbow.gif" width="100%">
 
 ## ✧ 〘 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ-ᴍᴅ 〙
 <a href="https://github.com/REDZEOX/Rias-gremory">
@@ -30,7 +30,7 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 
 <img src="Gradients.png" alt="Gradients" width="100%">
 
-<img src="Rainbow.gif" width="100%">
+
 
 <!--
 - 🔭 I’m currently working on ...
