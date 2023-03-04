@@ -21,7 +21,7 @@
 <p align="center">   
 <a href="https://instagram.com/say.scotch" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"width="100"/>
 
-<p align="center">🎗️ Spotify Music 🎗️
+<p align="center">🕯️✨ʀᴇᴅᴢᴇᴏꭗ✨🕯️
 
 <p align="center">
   <a href="https://open.spotify.com/track/bfdadf6c-de9e-468b-bbfa-ffeb7c395aec?si=Btfle_keSyysCVtV-bZvFQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
