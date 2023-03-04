@@ -11,7 +11,7 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 </div>
 
 <p align="center">   
-<a href="https://instagram.com/say.scotch" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"width="100"/>
+<a href="https://instagram.com/say.scotch" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"width="150"/>
 
 <p align="center">
   <a href="https://open.spotify.com/track/bfdadf6c-de9e-468b-bbfa-ffeb7c395aec?si=Btfle_keSyysCVtV-bZvFQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
@@ -31,7 +31,19 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 
 <img src="Gradients.png" alt="Gradients" width="100%">
 </div>
+
 <img src="Rainbow.gif" width="100%">
+
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
 
