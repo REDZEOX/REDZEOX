@@ -11,7 +11,7 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ɪ+ᴋɪʟʟᴇᴅ+ᴍʏ+ᴏᴡɴ+ʜᴀᴘᴘɪɴᴇꜱꜱ+...+✨⚡🥰.;ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ+💔)](https://git.io/typing-svg)
 
 
-</p>
+</div>
  ɪ ʟᴏᴠᴇ ᴛᴀʟᴋ ᴛᴏ ʙᴇ ᴀ ɢᴏᴏᴅ ᴀɴᴅ ʙᴇꜱᴛ ғʀɴᴅꜱ ᴡᴇ ᴡɪʟʟ ᴍᴇᴇᴛ ᴛʜᴀɴᴋ ғᴏʀ ᴛʜᴀᴛ..... 
 ʙᴇ ᴀ ɢᴏᴏᴅ ᴏɴᴇ 😌⚡🔥
 
@@ -25,7 +25,8 @@ src="https://media.tenor.com/ZFV-CLciq20AAAAi/anime-chibi.gif" width="90px"></h3
  
 <p align="center">
   <a href="https://open.spotify.com/track/bfdadf6c-de9e-468b-bbfa-ffeb7c395aec?si=Btfle_keSyysCVtV-bZvFQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
-<hr>
+ </div>
+ 
 <img src="Rainbow.gif" width="100%">
 
 ## ✧ 〘 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ-ᴍᴅ 〙
