@@ -1,9 +1,9 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img src="Rainbow.gif" width="100%">
 
 <p align="center">
 
-<img src="https://i.ibb.co/f1TM16N/20221223-105727.jpg" alt="nz" width="2050"/>
-</p>
+/*<img src="https://i.ibb.co/f1TM16N/20221223-105727.jpg" alt="nz" width="2050"/>
+</p>/*
 
 <h1 align="center"> ʀᴇᴅᴢᴇᴏꭗ
 
