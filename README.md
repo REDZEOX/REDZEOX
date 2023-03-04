@@ -28,7 +28,7 @@
 
 > * 00:00​ ━❍──────── 12:27 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img src="Rainbow.gif" width="100%">
 ## ✧ 〘 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ-ᴍᴅ 〙
 <a href="https://github.com/REDZEOX/Rias-gremory">
     <img src="https://i.ibb.co/FXn2L2f/20230127-141048.jpg" width="2560">
@@ -36,4 +36,6 @@
  ## ✧ 〘 ᴀᴛʟᴀꜱ-ᴍᴅ 〙
 <a href="https://github.com/REDZEOX/Atlas-MD">
   <img src="https://i.ibb.co/4FGqv4T/20230213-163512.jpg" width="2560">
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a> 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<img src="Rainbow.gif" width="100%">
