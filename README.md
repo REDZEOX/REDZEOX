@@ -5,7 +5,7 @@
 <img src="RedzeoX.png" alt="RedzeoX" width="2050"/>
 </div>
 
-<h1 align="center"> ʀᴇᴅᴢᴇᴏꭗ
+</div> align="center"> ʀᴇᴅᴢᴇᴏꭗ
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ɪ+ᴋɪʟʟᴇᴅ+ᴍʏ+ᴏᴡɴ+ʜᴀᴘᴘɪɴᴇꜱꜱ+...+✨⚡🥰.;ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ+💔)](https://git.io/typing-svg)
 
