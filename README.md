@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="RedzeoX.png" alt="nz" width="2050"/>
+<img src="RedzeoX.png" alt="RedzeoX" width="2050"/>
 </div>
 
 <h1 align="center"> ʀᴇᴅᴢᴇᴏꭗ
@@ -37,5 +37,8 @@
 <a href="https://github.com/REDZEOX/Atlas-MD">
   <img src="https://i.ibb.co/4FGqv4T/20230213-163512.jpg" width="2560">
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<img src="Gradients.png" alt="Gradients" width="100%">
+</div>
 
 <img src="Rainbow.gif" width="100%">
