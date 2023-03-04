@@ -1,11 +1,12 @@
 <img src="Rainbow.gif" width="100%">
 
 <p align="center">
-
 <img src="RedzeoX.png" alt="RedzeoX" width="2050"/>
 </div>
 
-</div> align="center"> ʀᴇᴅᴢᴇᴏꭗ
+<h3 align="center"> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ɪ'ᴍ ʀᴇᴅᴢᴇᴏꭗ <img
+src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
+
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ɪ+ᴋɪʟʟᴇᴅ+ᴍʏ+ᴏᴡɴ+ʜᴀᴘᴘɪɴᴇꜱꜱ+...+✨⚡🥰.;ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ+💔)](https://git.io/typing-svg)
 
