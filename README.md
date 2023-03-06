@@ -1,7 +1,7 @@
 <img src="Rainbow.gif" width="100%">
 
 <p align="center">
-<img src="RedZeoX.gif" alt="RedzeoX" width="2050"/>
+<img src="RedzeoX.png" alt="RedzeoX" width="2050"/>
 </div>
 
 <h3 align="center"> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ɪ'ᴍ ʀᴇᴅᴢᴇᴏꭗ <img
