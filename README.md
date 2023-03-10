@@ -26,9 +26,13 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 <a href="https://github.com/REDZEOX/Rias-gremory">
     <img src="https://i.ibb.co/FXn2L2f/20230127-141048.jpg" width="2560">
 
+  ## ✧ 〘 ᴘᴏᴋᴇᴅᴇꭗ-ᴍᴅ 〙
+<a href="https://github.com/REDZEOX/Poke-DeX">
+   <img src="https://i.ibb.co/2vJZV5p/20230310-201356.jpg" width="2560">
+  
  ## ✧ 〘 ᴀᴛʟᴀꜱ-ᴍᴅ 〙
 <a href="https://github.com/REDZEOX/Atlas-MD">
-  <img src="https://i.ibb.co/4FGqv4T/20230213-163512.jpg" width="2560">
+   <img src="https://i.ibb.co/4FGqv4T/20230213-163512.jpg" width="2560">
  </div>
 
 <a><img src="Gradients.png" alt="RedzeoX" width="100%">
