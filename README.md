@@ -1,4 +1,4 @@
-<img src="Rainbow.gif" width="100%">
+<img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
 
 <p align="center">
 <img src="https://i.ibb.co/M6NG83v/RedzeoX.png" alt="RedzeoX" width="2050"/>
@@ -20,7 +20,7 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 <a href="http://wa.me/919529426293" target="blank"><img src="https://img.shields.io/badge/RedzeoX - learner-000000?style=for-the-badge&logo=whatsapp&logoColor=white" height="20px"/></a>  </a>
   <br>
 
-<img src="Rainbow.gif" width="100%">
+<img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
 
 ## ✧ 〘 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ-ᴍᴅ 〙
 <a href="https://github.com/REDZEOX/Rias-gremory">
@@ -35,9 +35,9 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
    <img src="https://i.ibb.co/4FGqv4T/20230213-163512.jpg" width="2560">
  </div>
 
-<a><img src="https://i.ibb.co/s9CyPNC/20230305-220550.png" alt="RedzeoX" width="100%">
+<a><img src="https://i.ibb.co/KzgLzP8/Gradients.png" alt="RedzeoX" width="100%">
 
-<a><img src="Rainbow.gif" width="100%">
+<a><img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
 
 
 <!--
