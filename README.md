@@ -1,7 +1,7 @@
 <img src="Rainbow.gif" width="100%">
 
 <p align="center">
-<img src="RedzeoX.png" alt="RedzeoX" width="2050"/>
+<img src="https://i.ibb.co/M6NG83v/RedzeoX.png" alt="RedzeoX" width="2050"/>
 </div>
 
 <h3 align="center"> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ɪ'ᴍ ʀᴇᴅᴢᴇᴏꭗ <img
@@ -35,7 +35,7 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
    <img src="https://i.ibb.co/4FGqv4T/20230213-163512.jpg" width="2560">
  </div>
 
-<a><img src="Gradients.png" alt="RedzeoX" width="100%">
+<a><img src="https://i.ibb.co/s9CyPNC/20230305-220550.png" alt="RedzeoX" width="100%">
 
 <a><img src="Rainbow.gif" width="100%">
 
