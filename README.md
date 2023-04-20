@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
 
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjEzMGEzNzgxNWJjM2U5Y2NiOTUzMzkwMzhhZjMzZGJjZWJlYjY3YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2oH5NMGhA1RF2E2Ibv/giphy.gif" alt="RedzeoX" width="2050"/>
+<img src="https://i.ibb.co/M6NG83v/RedzeoX.png" alt="RedzeoX" width="2050"/>
 </div>
 
 <h3 align="center"> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ɪ'ᴍ ʀᴇᴅᴢᴇᴏꭗ <img
@@ -13,6 +13,10 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
 <p align="center">
   <a href="https://open.spotify.com/track/bfdadf6c-de9e-468b-bbfa-ffeb7c395aec?si=Btfle_keSyysCVtV-bZvFQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
  </div>
+
+<p align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjEzMGEzNzgxNWJjM2U5Y2NiOTUzMzkwMzhhZjMzZGJjZWJlYjY3YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2oH5NMGhA1RF2E2Ibv/giphy.gif" alt="RedzeoX" width="2050"/>
+</div>
  
 <p align="center">   
 <a href="https://instagram.com/say.scotch" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"height="20px"/>
