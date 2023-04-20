@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
 
 <p align="center">
-<img src="https://i.ibb.co/M6NG83v/RedzeoX.png" alt="RedzeoX" width="2050"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjEzMGEzNzgxNWJjM2U5Y2NiOTUzMzkwMzhhZjMzZGJjZWJlYjY3YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2oH5NMGhA1RF2E2Ibv/giphy.gif" alt="RedzeoX" width="2050"/>
 </div>
 
 <h3 align="center"> ʜᴇʟʟᴏ ᴛʜᴇʀᴇ ɪ'ᴍ ʀᴇᴅᴢᴇᴏꭗ <img
