@@ -14,15 +14,20 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
   <a href="https://open.spotify.com/track/bfdadf6c-de9e-468b-bbfa-ffeb7c395aec?si=Btfle_keSyysCVtV-bZvFQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
  </div>
 
-<p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjEzMGEzNzgxNWJjM2U5Y2NiOTUzMzkwMzhhZjMzZGJjZWJlYjY3YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2oH5NMGhA1RF2E2Ibv/giphy.gif" alt="RedzeoX" width="2050"/>
-</div>
- 
 <p align="center">   
-<a href="https://instagram.com/say.scotch" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"height="20px"/>
+<a href="https://instagram.com/say.scotch" target="blank"> <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"height="20px"/>
 <a href="http://wa.me/919529426293" target="blank"><img src="https://img.shields.io/badge/GC link-000000?style=for-the-badge&logo=whatsapp&logoColor=white" height="20px"/></a>
 <a href="http://wa.me/919529426293" target="blank"><img src="https://img.shields.io/badge/RedzeoX - learner-000000?style=for-the-badge&logo=whatsapp&logoColor=white" height="20px"/></a>  </a>
   <br>
+  
+<div align="center">
+  
+![](https://typograssy.deno.dev/api?text=IT+IS+FOOLISH+TO+FEAR+WHAT+WE+HAVE+YET+TO+SEE+AND+KNOW!!!&l0=none&l1=216e39&l4=a3f0b0&bg=none&frame=none&speed=100&comment=)
+
+<div align="center">
+<a href="https://github.com/REDZEOX/"><img align="centre" width=300 src="https://moe-counter.glitch.me/get/@REDZEOX?theme=rule34"></a>
+
+<br>
 
 <img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
 
