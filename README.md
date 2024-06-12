@@ -22,9 +22,6 @@ src="https://media.tenor.com/B1tV14bHvNMAAAAi/anime.gif" width="90px"></h3>
   
 <div align="center">
   
-![](https://typograssy.deno.dev/api?text=IT+IS+FOOLISH+TO+FEAR+WHAT+WE+HAVE+YET+TO+SEE+AND+KNOW!!!&l0=none&l1=216e39&l4=a3f0b0&bg=none&frame=none&speed=100&comment=)
-
-<div align="center">
 <a href="https://github.com/REDZEOX/"><img align="centre" width=300 src="https://moe-counter.glitch.me/get/@REDZEOX?theme=rule34"></a>
 
 <br>
